@@ -1,0 +1,7 @@
+google.*##a[href*="haberturk.com"]:nth-ancestor(2)
+google.*##a[href*="sabah.com.tr"]:nth-ancestor(2)
+google.*##a[href*="cnnturk.com"]:nth-ancestor(2)
+google.*##a[href*="ahaber.com.tr"]:nth-ancestor(2)
+google.*##a[href*="posta.com.tr"]:nth-ancestor(2)
+google.*##a[href*="aksam.com.tr"]:nth-ancestor(2)
+google.*##a[href*="haberler.com"]:nth-ancestor(2)
