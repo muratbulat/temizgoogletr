@@ -17,8 +17,6 @@ Listetyi Ublock Origin, Adblock vb eklentilere eklemek için bağlantıya tıkla
 
 [Temiz Google TR](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/muratbulat/temizgoogletr/main/temizgoogletr.txt&title=TemizGoogleTR)
 
-[AdBack Domains Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adback-domains.txt&title=AdBack%20Domains%20Filter%20List) 
-
 ## Hatalar
 
 Hata veya eklenmek istediğiniz site varsa istek açabilirsiniz.
