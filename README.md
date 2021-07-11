@@ -15,7 +15,9 @@ Google aramlarında çöplük şekilde haber yapan siteleri aramadan çıkaran f
 
 Listetyi Ublock Origin, Adblock vb eklentilere eklemek için bağlantıya tıklayınız: 
 
-[Temiz Google TR](https://subscribe.adblockplus.org/?location=https://github.com/muratbulat/temizgoogletr/raw/main/temizgoogletr.txt&title=TemizGoogleTR) 
+[Temiz Google TR](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/muratbulat/temizgoogletr/main/temizgoogletr.txt&title=TemizGoogleTR)
+
+[AdBack Domains Filter List](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/adback-domains.txt&title=AdBack%20Domains%20Filter%20List) 
 
 ## Hatalar
 
