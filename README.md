@@ -23,4 +23,4 @@ Hata veya eklenmek istediğiniz site varsa istek açabilirsiniz.
 
 ## Lsians
 
-[![GPL-3.0 License](https://github.com/muratbulat/temizgoogletr/blob/main/LICENSE)
+GPL-3.0 License
