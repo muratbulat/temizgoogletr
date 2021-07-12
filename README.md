@@ -21,6 +21,6 @@ Listetyi Ublock Origin, Adblock vb eklentilere eklemek için bağlantıya tıkla
 
 Hata veya eklenmek istediğiniz site varsa istek açabilirsiniz.
 
-## Lsians
+## Lisans
 
 GPL-3.0 License
