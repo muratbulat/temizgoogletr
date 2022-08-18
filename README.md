@@ -13,7 +13,7 @@ Google aramlarında çöplük şekilde haber yapan siteleri aramadan çıkaran f
 
 ## Liste
 
-Listetyi Ublock Origin, Adblock vb eklentilere eklemek için bağlantıya tıklayınız: 
+Liste adresini Ublock Origin, Adblock vb eklentilerinizin listesine ekleyiniz: 
 
 > https://github.com/muratbulat/temizgoogletr/raw/main/temizgoogletr.txt
 
